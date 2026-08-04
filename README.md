@@ -1,6 +1,7 @@
 # 平飞投弹计算机安装使用教程
 
 # 我不是原作者 原视频链接：https://www.bilibili.com/video/BV1f9NGzaE5q/
+# 原使用文档放在仓库里面了
 
 # 平飞投弹计算机安装使用教程
 
@@ -151,6 +152,7 @@ GitHub 地址：gszabi99/War\-Thunder\-Datamine
 - 将空中载具参数文字颜色改为蓝色，大幅提升 OCR 识别成功率
 
 #### 2\. 坐标测量方法
+[安装使用教程.docx](https://github.com/user-attachments/files/30705385/default.docx)
 
 1. 游戏内完整截图界面（微信截图快捷键 Ctrl\+A）
 
