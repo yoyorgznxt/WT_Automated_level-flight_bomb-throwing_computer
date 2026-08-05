@@ -1,6 +1,6 @@
 # 平飞投弹计算机安装使用教程
 
-# 我不是原作者 原视频链接：https://www.bilibili.com/video/BV1f9NGzaE5q/
+# 我不是原作者，经原作者授权发布 原视频链接：https://www.bilibili.com/video/BV1f9NGzaE5q/
 # 原使用文档放在仓库里面了
 
 # 平飞投弹计算机安装使用教程
